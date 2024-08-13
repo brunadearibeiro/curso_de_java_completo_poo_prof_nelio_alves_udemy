@@ -1,0 +1,4 @@
+Nesta etapa dos meus estudos estou tendo muita dificuldade com os nomes da variáveis. Eles devem ser muito precisos e detalhados ou o mais breves e sucintas possíveis?
+
+Existe jeito certo e errado de nomear uma variável?
+

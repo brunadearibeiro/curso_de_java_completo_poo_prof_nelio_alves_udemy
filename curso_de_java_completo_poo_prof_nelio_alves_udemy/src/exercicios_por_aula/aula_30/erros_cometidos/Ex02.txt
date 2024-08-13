@@ -1,0 +1,9 @@
+Onde eu comoti o erro: 
+
+linha 13 e 21
+
+O que eu fiz de errado:
+
+1. Coloquei o fechamendo do scanner depois dos comando de solicitação de entrada de valores e não no final de todo o meu código (que é o ideal para evitar erros).
+
+2. Coloquei a configuração de Locale no final de todo o código ao invés de colocar no ínicio (antes mesmo até da declaração do scanner) - A utilização do Locale foi descartada.

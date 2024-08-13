@@ -1,0 +1,15 @@
+Onde eu cometi o erro: 
+
+linha 27
+
+O que eu fiz de errado: 
+
+Coloquei a variável dos produtos como valor a ser formatado ao invés das variáveis dos números inteiros e também esqueci do %n no final para pular para próxima linha, fazendo com que o System.out.println(); não exercesse a sua funcção (que é deixar uma linha de espaço entre o final da minha execução e o diretório onde o meu código está sendo salvo)
+
+Erro: 
+
+System.out.printf("%nA diferença entre o produto de %d e %d pelo produto de %d e %d é: %d", produtoDeAEB, produtoDeCED, diferencaEntreOsProdutos);
+
+Correção: 
+
+System.out.printf("%nA diferença entre o produto de %d e %d pelo produto de %d e %d é: %d%n", a, b, c, d, diferencaEntreOsProdutos);

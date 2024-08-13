@@ -1,0 +1,37 @@
+Exercício 06
+
+Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre: 
+
+a) A área do triângulo retângulo que tem A por base e C por altura.
+
+b) A área do círculo de raio C. (pi = 3.14159).
+
+c) A área do quadrado que tem lado B.
+
+e) A área do retângulo que tem lados A e B.  
+
+Exemplos:
+
+Entrada:
+3.4
+4.0
+5.2
+
+Saída: 
+TRIÂNGULO: 7.800
+CÍCULO: 84.949
+TRAPÉZIO: 18.200
+QUADRADO: 16.000
+RETÂNGULO: 12.000
+
+Entrada:
+12.7
+10.4
+15.2
+
+Saída: 
+TRIÂNGULO: 96.520
+CÍCULO: 725.833
+TRAPÉZIO: 725.560
+QUADRADO: 108.160
+RETÂNGULO: 132.080

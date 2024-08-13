@@ -1,0 +1,25 @@
+Exercício 03
+
+Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (AB - CD).
+
+Exemplos:
+
+Entrada:
+5
+6
+7
+8
+
+Saída:
+DIFERENÇA = -26
+
+Entrada:
+5
+6
+-7
+8
+
+Saída:
+DIFERENÇA = 86
+
+
